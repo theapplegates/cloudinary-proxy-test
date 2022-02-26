@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/responsive/:width/*"
-  to = "https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/https://demo-11ty-netlify-cloudinary.netlify.app/:splat"
+  to = "https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/https://jovial-darwin-b47a18.netlify.app/:splat"
   status = 200
