@@ -1,0 +1,42 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: cadetblue;
+}
+
+main {
+  background-color: white;
+  width: 90vw;
+  max-width: 42rem;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.logo {
+  max-width: 50%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 30rem) {
+  .logo {
+    max-width: 25%;
+    float: right;
+    margin-top: 0;
+    margin-left: 1rem;
+  }
+}
+
+pre {
+  overflow-x: scroll;
+}
