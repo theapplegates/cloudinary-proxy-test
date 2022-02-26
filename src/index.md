@@ -17,6 +17,12 @@ It uses [eleventy-plugin-images-responsiver](https://nhoizey.github.io/images-re
 
 ![Cloudinary logo](/images/cloudinary.png){.logo}
 
+
+
+![Grandma](/images/Grandma.jpg){.logo]}
+
+
+
 The configuration of the plugin makes it generate multiple versions of the original images thanks to [Cloudinary](https://nho.io/cloudinary-signup)'s Fetch API and [URL based transformations](https://cloudinary.com/documentation/image_transformations).
 
 Any other image resizing tool (SaaS or not) could be used with adapted configuration.
